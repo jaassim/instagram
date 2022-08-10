@@ -1,0 +1,91 @@
+{
+   "checksum": "b4212ac85107d81304bae364ce10cde3",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13304384866007461",
+            "guid": "b4d53f04-6710-4b1f-b304-de83ad0899ee",
+            "id": "11",
+            "name": "ASUS Software Portal - Exclusive technology",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/Software-and-Innovations-Portal/"
+         }, {
+            "date_added": "13304384866007362",
+            "guid": "53d29b41-ffbd-439f-8505-3efb8a3a3e71",
+            "id": "10",
+            "name": "MyASUS Software - Get the best from ASUS PC",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/ASUS-Software/"
+         }, {
+            "date_added": "13304384866006975",
+            "guid": "a2cb29bd-8d4f-4c66-b588-77ee412f7f2a",
+            "id": "9",
+            "name": "McAfee LiveSafe",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://home.mcafee.com/root/campaign.aspx?cid=246814"
+         }, {
+            "date_added": "13304377159188507",
+            "guid": "87dce097-600f-43dc-844e-442293eee87d",
+            "id": "12",
+            "name": "ASUS Software Portal - Exclusive technology",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://www.asus.com/Software-and-Innovations-Portal/"
+         }, {
+            "date_added": "13304377159188442",
+            "guid": "531b36a4-95f6-46c0-a555-a09d41a318e1",
+            "id": "13",
+            "name": "MyASUS Software - Get the best from ASUS PC",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://www.asus.com/ASUS-Software/"
+         }, {
+            "date_added": "13304377159188166",
+            "guid": "2bf1b68e-7fca-4224-b848-aa238210d8d5",
+            "id": "14",
+            "name": "McAfee LiveSafe",
+            "show_icon": false,
+            "source": "unknown",
+            "type": "url",
+            "url": "https://home.mcafee.com/root/campaign.aspx?cid=246814"
+         } ],
+         "date_added": "13304377159094209",
+         "date_modified": "13304384866007461",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13304377159094212",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13304377159094220",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Ci4KDgiIgQISCAJFbHqCAQAAEgAgASoYaVlkdk9hRlMyOWZCZDlpQTUzaWovUT09EqgBCA4SowEKHGI1czZab2JNVFJzeC9ORWd3MkFicm1yY3hOcz0SJDJiZjFiNjhlLTdmY2EtNDIyNC1iODQ4LWFhMjM4MjEwZDhkNRgAIAEoATDsrrHTpzA45tmw06cwQObZsNOnMEocUzNMMXE4dmRYM2FSOEVwNEpTN0tPdnloWVZnPVofIh3bZUdKZk85d1htbVR2V3JjbUVmOFBNYjVHSkRvPWUAAAAAEqgBCA0SowEKHEs0VlRyTGlJWWZ2RHFJcUJoeTh6Zk9jaDZyZz0SJDUzMWIzNmE0LTk1ZjYtNDZjMC1hNTU1LWEwOWQ0MWEzMThlMRgAIAEoATDsrrHTpzA45tmw06cwQObZsNOnMEocdzYrSVNwSFI5YVQ5eDRDcXBHUVRRVUpaSEJJPVofIh23aVJXQks2ekVKN3d6eG5wTjVvbWY5TnQ2SWcwPWUAAAAAEqcBCAwSogEKHDZGbG4vOFFsRi9Ta1FDdkxqSXgwZjlIb2ZpRT0SJDg3ZGNlMDk3LTYwMGYtNDNkYy04NDRlLTQ0MjI5M2VlZTg3ZBgAIAEoATDsrrHTpzA45dmw06cwQOXZsNOnMEoccjM3TEFLOGtITDIrSXNCV3ZMN2svenpkemR3PVoeIhxvYWFRVlU0RnN3aTY0SWxtbnZPYjh6OG0wcnc9ZQAAAAASiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkNjNhZjEyNjEtYmI4Zi01ZjZkLTg0YmMtZmFjN2MxZWExOTU2GAAgACgAMIfgpeH+LzjO46Xh/i9AzuOl4f4vShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQyNmQ5NGZlMC0yZmJlLTUyNTYtOTZkMS1hYTliMWEwZmI4OGIYACAAKAAwh+Cl4f4vOK/jpeH+L0Cv46Xh/i9KHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGRjZGFiMTcwLTBhYmItNWU0NS04MWYxLTAyYTM5NWZjNjVmZBgAIAAoADCH4KXh/i84+uSl4f4vQPrkpeH+L0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAwADgA",
+   "version": 1
+}

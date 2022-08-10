@@ -1,0 +1,75 @@
+{
+   "checksum": "92dd2bdced6430d65d7e20d57d59a463",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13304384866007461",
+            "guid": "b4d53f04-6710-4b1f-b304-de83ad0899ee",
+            "id": "11",
+            "name": "ASUS Software Portal - Exclusive technology",
+            "type": "url",
+            "url": "https://www.asus.com/Software-and-Innovations-Portal/"
+         }, {
+            "date_added": "13304384866007362",
+            "guid": "53d29b41-ffbd-439f-8505-3efb8a3a3e71",
+            "id": "10",
+            "name": "MyASUS Software - Get the best from ASUS PC",
+            "type": "url",
+            "url": "https://www.asus.com/ASUS-Software/"
+         }, {
+            "date_added": "13304384866006975",
+            "guid": "a2cb29bd-8d4f-4c66-b588-77ee412f7f2a",
+            "id": "9",
+            "name": "McAfee LiveSafe",
+            "type": "url",
+            "url": "https://home.mcafee.com/root/campaign.aspx?cid=246814"
+         }, {
+            "date_added": "13304377159188507",
+            "guid": "87dce097-600f-43dc-844e-442293eee87d",
+            "id": "12",
+            "name": "ASUS Software Portal - Exclusive technology",
+            "type": "url",
+            "url": "https://www.asus.com/Software-and-Innovations-Portal/"
+         }, {
+            "date_added": "13304377159188442",
+            "guid": "531b36a4-95f6-46c0-a555-a09d41a318e1",
+            "id": "13",
+            "name": "MyASUS Software - Get the best from ASUS PC",
+            "type": "url",
+            "url": "https://www.asus.com/ASUS-Software/"
+         }, {
+            "date_added": "13304377159188166",
+            "guid": "2bf1b68e-7fca-4224-b848-aa238210d8d5",
+            "id": "14",
+            "name": "McAfee LiveSafe",
+            "type": "url",
+            "url": "https://home.mcafee.com/root/campaign.aspx?cid=246814"
+         } ],
+         "date_added": "13304377159094209",
+         "date_modified": "13304384866007461",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13304377159094212",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13304377159094220",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
