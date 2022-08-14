@@ -63,7 +63,7 @@ Future<Null> _silentLogin(BuildContext context) async {
     await tryCreateUserRecord(context);
   }
 
-  if (await auth.currentUser == null && user != null) {
+  if (auth.currentUser == null && user != null) {
     final GoogleSignInAccount googleUser = await googleSignIn.signIn();
     final GoogleSignInAuthentication googleAuth = await googleUser
         .authentication;
@@ -150,7 +150,7 @@ class Fluttergram extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Fluttergram',
+      title: 'instagram',
       theme: ThemeData(
           // This is the theme of your application.
           //
@@ -161,9 +161,8 @@ class Fluttergram extends StatelessWidget {
           // or press Run > Flutter Hot Reload in IntelliJ). Notice that the
           // counter didn't reset back to zero; the application is not restarted.
           primarySwatch: Colors.blue,
-          buttonColor: Colors.pink,
           primaryIconTheme: IconThemeData(color: Colors.black)),
-      home: HomePage(title: 'Fluttergram'),
+      home: HomePage(title: 'instagram'),
     );
   }
 }
@@ -192,7 +191,7 @@ class _HomePageState extends State<HomePage> {
           child: Column(
             children: <Widget>[
               Text(
-                'Fluttergram',
+                'instagram',
                 style: TextStyle(
                     fontSize: 60.0,
                     fontFamily: "Billabong",
